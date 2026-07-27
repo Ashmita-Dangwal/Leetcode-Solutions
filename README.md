@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## String Matching
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Linked List
 |  |
 | ------- |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
