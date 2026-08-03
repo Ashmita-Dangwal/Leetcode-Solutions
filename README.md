@@ -38,6 +38,7 @@
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
