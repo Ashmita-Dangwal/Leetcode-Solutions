@@ -12,7 +12,7 @@ class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) return;
         
-        // Step 1: Find middle
+     
         ListNode slow = head, fast = head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
