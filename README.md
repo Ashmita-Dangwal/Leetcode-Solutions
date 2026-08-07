@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## String Matching
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
