@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -52,6 +53,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Linked List
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bracket Sequences
 |  |
@@ -115,4 +119,20 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
