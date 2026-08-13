@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
