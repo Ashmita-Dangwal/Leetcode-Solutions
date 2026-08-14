@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -21,6 +22,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
