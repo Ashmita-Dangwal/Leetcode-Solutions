@@ -85,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
@@ -131,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
