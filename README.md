@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
