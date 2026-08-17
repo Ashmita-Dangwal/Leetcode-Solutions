@@ -23,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
@@ -89,6 +90,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
