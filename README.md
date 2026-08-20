@@ -25,6 +25,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
@@ -33,6 +34,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
