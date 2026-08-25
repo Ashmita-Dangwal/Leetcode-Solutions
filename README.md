@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -200,6 +201,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
