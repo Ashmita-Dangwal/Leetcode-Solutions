@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
