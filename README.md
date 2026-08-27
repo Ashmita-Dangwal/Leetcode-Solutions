@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -36,6 +37,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
