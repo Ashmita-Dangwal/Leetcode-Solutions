@@ -33,6 +33,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2498-frog-jump-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Matrix
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Heap (Priority Queue)
 |  |
