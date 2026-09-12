@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -103,6 +104,7 @@
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
@@ -233,6 +235,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
