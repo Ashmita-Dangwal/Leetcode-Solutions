@@ -241,6 +241,7 @@
 | [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -277,6 +278,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
@@ -295,5 +297,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
