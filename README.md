@@ -37,6 +37,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +121,7 @@
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -285,6 +288,7 @@
 | [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
