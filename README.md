@@ -32,6 +32,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -103,6 +104,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -251,6 +254,7 @@
 | [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Floyd's Cycle Finding Algorithm
@@ -311,4 +315,8 @@
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
