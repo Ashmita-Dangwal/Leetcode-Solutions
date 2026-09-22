@@ -35,6 +35,7 @@
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
@@ -105,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Simulation
@@ -193,6 +196,7 @@
 | [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -319,4 +323,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
