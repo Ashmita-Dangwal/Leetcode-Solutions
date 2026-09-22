@@ -38,6 +38,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -107,6 +108,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Linked List
 |  |
@@ -203,6 +205,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2498-frog-jump-ii) |
@@ -327,4 +330,5 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 <!---LeetCode Topics End-->
