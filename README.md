@@ -44,6 +44,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2498-frog-jump-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2498-frog-jump-ii) |
@@ -157,6 +158,7 @@
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
@@ -310,6 +312,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
