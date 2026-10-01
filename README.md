@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
@@ -253,6 +254,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -348,4 +350,16 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
