@@ -26,6 +26,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -254,6 +255,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -357,9 +359,18 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
