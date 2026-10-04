@@ -38,6 +38,7 @@
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
