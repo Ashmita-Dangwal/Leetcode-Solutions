@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -234,6 +235,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
