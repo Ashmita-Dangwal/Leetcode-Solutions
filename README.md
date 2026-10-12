@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -235,6 +236,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0860-lemonade-change) |
@@ -268,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0062-unique-paths) |
