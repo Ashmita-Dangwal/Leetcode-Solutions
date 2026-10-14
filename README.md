@@ -94,6 +94,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -225,6 +226,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -274,6 +276,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -390,6 +393,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
