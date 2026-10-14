@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -65,6 +66,7 @@
 | [0064-minimum-path-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -93,6 +95,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -388,6 +391,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -414,5 +418,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
