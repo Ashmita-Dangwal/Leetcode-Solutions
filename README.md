@@ -45,6 +45,7 @@
 | [0860-lemonade-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -401,6 +402,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -409,4 +411,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
