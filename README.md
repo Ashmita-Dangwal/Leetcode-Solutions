@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
