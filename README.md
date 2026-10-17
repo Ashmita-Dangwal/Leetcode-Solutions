@@ -60,6 +60,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2498-frog-jump-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2498-frog-jump-ii) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Matrix
 |  |
 | ------- |
@@ -294,6 +295,7 @@
 | [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
