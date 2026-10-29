@@ -82,6 +82,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -102,6 +103,7 @@
 | [0022-generate-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
