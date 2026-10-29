@@ -40,6 +40,7 @@
 | [0455-assign-cookies](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
@@ -140,6 +141,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -329,6 +332,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
