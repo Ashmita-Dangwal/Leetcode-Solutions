@@ -426,6 +426,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 ## Complete Knapsack
@@ -440,5 +441,14 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
