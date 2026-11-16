@@ -427,6 +427,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 ## Complete Knapsack
@@ -448,10 +449,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ashmita-Dangwal/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
